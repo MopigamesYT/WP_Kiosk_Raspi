@@ -6,7 +6,7 @@ with touch compatibility (Xorg)
 ## Install Manual Setting :
 
 ```
-bash <(wget -qO- https://raw.githubusercontent.com/MopigamesYT/Work_Raspi_Kiosk/main/Install.sh)
+bash <(wget -qO- https://raw.githubusercontent.com/MopigamesYT/WP_Kiosk_Raspi/main/Install.sh)
 ```
 
 ## Install 3.5inch RPI Display -480X320 XPT2046 :
