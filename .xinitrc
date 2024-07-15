@@ -4,8 +4,8 @@ xset s off
 xset s noblank
 
 unclutter -idle 0.08 -root -noevents &
-chromium-browser https://github.com/felix068/WP_Kiosk_Raspi/ \
-  --window-size=800,480 \
+chromium-browser http://localhost:3000/ \
+  --window-size=1920,1080 \
   --window-position=0,0 \
   --start-fullscreen \
   --kiosk \
